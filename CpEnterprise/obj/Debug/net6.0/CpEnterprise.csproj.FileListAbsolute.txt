@@ -1,0 +1,15 @@
+C:\Users\Leandroyyy\Source\Repos\CpEnterprise\CpEnterprise\obj\Debug\net6.0\CpEnterprise.csproj.AssemblyReference.cache
+C:\Users\Leandroyyy\Source\Repos\CpEnterprise\CpEnterprise\obj\Debug\net6.0\CpEnterprise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandroyyy\Source\Repos\CpEnterprise\CpEnterprise\obj\Debug\net6.0\CpEnterprise.AssemblyInfoInputs.cache
+C:\Users\Leandroyyy\Source\Repos\CpEnterprise\CpEnterprise\obj\Debug\net6.0\CpEnterprise.AssemblyInfo.cs
+C:\Users\Leandroyyy\Source\Repos\CpEnterprise\CpEnterprise\obj\Debug\net6.0\CpEnterprise.csproj.CoreCompileInputs.cache
+C:\Users\Leandroyyy\Source\Repos\CpEnterprise\CpEnterprise\bin\Debug\net6.0\CpEnterprise.exe
+C:\Users\Leandroyyy\Source\Repos\CpEnterprise\CpEnterprise\bin\Debug\net6.0\CpEnterprise.deps.json
+C:\Users\Leandroyyy\Source\Repos\CpEnterprise\CpEnterprise\bin\Debug\net6.0\CpEnterprise.runtimeconfig.json
+C:\Users\Leandroyyy\Source\Repos\CpEnterprise\CpEnterprise\bin\Debug\net6.0\CpEnterprise.dll
+C:\Users\Leandroyyy\Source\Repos\CpEnterprise\CpEnterprise\bin\Debug\net6.0\CpEnterprise.pdb
+C:\Users\Leandroyyy\Source\Repos\CpEnterprise\CpEnterprise\obj\Debug\net6.0\CpEnterprise.dll
+C:\Users\Leandroyyy\Source\Repos\CpEnterprise\CpEnterprise\obj\Debug\net6.0\refint\CpEnterprise.dll
+C:\Users\Leandroyyy\Source\Repos\CpEnterprise\CpEnterprise\obj\Debug\net6.0\CpEnterprise.pdb
+C:\Users\Leandroyyy\Source\Repos\CpEnterprise\CpEnterprise\obj\Debug\net6.0\CpEnterprise.genruntimeconfig.cache
+C:\Users\Leandroyyy\Source\Repos\CpEnterprise\CpEnterprise\obj\Debug\net6.0\ref\CpEnterprise.dll
